@@ -1,2 +1,2 @@
-# PyTorch-Study
-Basics of PyTorch
+# PyTorch-OCR  
+Basic numeric OCR with Pytorch  
